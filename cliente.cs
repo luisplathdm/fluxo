@@ -1,5 +1,5 @@
 using System.Data;
-namespace Fluxograma;
+namespace Modelos;
 
    //CLASSE FILHO//
   public class Cliente  

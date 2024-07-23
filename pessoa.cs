@@ -1,5 +1,5 @@
 using System.Data;
-namespace Fluxograma;
+namespace Modelos;
  
  //CLASSE PAI//
 
